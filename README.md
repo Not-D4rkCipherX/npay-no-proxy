@@ -1,9 +1,6 @@
 # NODEPAY FARMING WTHOUT PROXIES
 - Multi Account Keep-Alive Support.
 
-# NOTE
-- **Paste your nodepay tokens inside ```tokens.txt```**
-- 
 # PC (WINDOWS)
 ## How to Get Nodepay Token -
 
