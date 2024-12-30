@@ -53,6 +53,9 @@ pkg install git
 ```
 git clone https://github.com/Not-D4rkCipherX/npay-no-proxy.git
 ```
+```
+cd npay-no-proxy
+```
 ## Install Requirements
 ```
 pip install -r requirements.txt
