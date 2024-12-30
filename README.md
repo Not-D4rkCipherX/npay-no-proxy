@@ -65,7 +65,7 @@ pip install -r requirements.txt
 pkg install nano
 ```
 ```
-nano tokens.txt
+nano token.txt
 ```
 ```
 python bot.py
