@@ -1,0 +1,5 @@
+asyncio
+cloudscraper
+loguru
+fake_useragent
+aiohttp
