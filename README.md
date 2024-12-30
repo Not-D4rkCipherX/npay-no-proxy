@@ -51,7 +51,7 @@ localStorage.getItem('np_webapp_token')
 pkg install git
 ```
 ```
-git clone https://github.com/Not-D4rkCipherX/npay-no-prxy.git
+git clone https://github.com/Not-D4rkCipherX/npay-no-proxy.git
 ```
 ## Install Requirements
 ```
